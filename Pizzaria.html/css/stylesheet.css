@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+h1{
+    
+    margin: 0 auto 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+label{
+    text-align: justify;
+}
+
+.Beverages{
+    color: blueviolet;
+}
